@@ -1,1 +1,1 @@
-<img src="eeaao.jpg" width="500" />
+<img src="eeaao.jpg" width="800" />
